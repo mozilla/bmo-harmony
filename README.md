@@ -1,4 +1,7 @@
 # bmo-harmony
+
 Harmonizing BMO and Mozilla GitHub Projects
 
-* [How to use labels in your project](labels)
+## Archived
+
+This project has been moved into https://github.com/mozilla/bug-handling/
